@@ -1,0 +1,3 @@
+groq #groq is a library that allows you to interact with the Groq API for various tasks, including AI and machine learning applications. It provides a simple interface to send requests and receive responses from the Groq platform.
+python-dotenv
+streamlit
