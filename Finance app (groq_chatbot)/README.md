@@ -27,7 +27,7 @@ The assistant is restricted to the finance domain — it explains concepts, give
 ---
 
 ## 📂 Project Structure
-
+'''
 Finance app (groq_chatbot)/
 ├── app.py              # Streamlit UI and chat logic
 ├── llm.py              # System prompt + Groq API call logic
@@ -35,8 +35,7 @@ Finance app (groq_chatbot)/
 ├── requirements.txt    # Python dependencies
 ├── .env                # Your API key (not committed to git)
 └── README.md
-
-
+'''
 ---
 
 ## 🚀 Getting Started
